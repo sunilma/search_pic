@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sunilma.github.io/picsearch",
-  "name": "picsearch",
+  "homepage": "https://sunilma.github.io/search_pic",
+  "name": "search_pic",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
