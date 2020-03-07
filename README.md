@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-# View live deom of this App:
+# View live demo of this App:
 https://sunilma.github.io/search_pic/
 
 
